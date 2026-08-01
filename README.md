@@ -32,8 +32,6 @@ coin@github:~$ ls -l projects/
 | **[Malleable-C2-Profiles](https://github.com/BC-SECURITY/Malleable-C2-Profiles)** | ![Malleable-C2-Profiles stars](https://img.shields.io/github/stars/BC-SECURITY/Malleable-C2-Profiles?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Malleable C2 profiles for Cobalt Strike and Empire |
 | **[ScriptBlock-Smuggling](https://github.com/BC-SECURITY/ScriptBlock-Smuggling)** | ![ScriptBlock-Smuggling stars](https://img.shields.io/github/stars/BC-SECURITY/ScriptBlock-Smuggling?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Sample code from the ScriptBlock Smuggling research |
 
-More at **[github.com/BC-SECURITY](https://github.com/BC-SECURITY)**.
-
 ```console
 coin@github:~$ cat talks.log
 ```
