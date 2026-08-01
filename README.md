@@ -31,12 +31,12 @@ cx01n@github:~$ ls -l projects/
 
 | repo | ★ | what it does |
 |---|---|---|
-| **[Empire](https://github.com/BC-SECURITY/Empire)** | ![](https://img.shields.io/github/stars/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41) | Post-exploitation and adversary emulation framework for red teams and penetration testers |
-| **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | ![](https://img.shields.io/github/stars/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41) | Frontend for Empire |
-| **[Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)** | ![](https://img.shields.io/github/stars/BC-SECURITY/Beginners-Guide-to-Obfuscation?style=flat-square&labelColor=0d1117&color=00ff41) | Workshop material on evading detection through obfuscation |
-| **[Moriarty](https://github.com/BC-SECURITY/Moriarty)** | ![](https://img.shields.io/github/stars/BC-SECURITY/Moriarty?style=flat-square&labelColor=0d1117&color=00ff41) | Windows privilege escalation — enumerates missing KBs, detects vulnerabilities, suggests exploits |
-| **[Malleable-C2-Profiles](https://github.com/BC-SECURITY/Malleable-C2-Profiles)** | ![](https://img.shields.io/github/stars/BC-SECURITY/Malleable-C2-Profiles?style=flat-square&labelColor=0d1117&color=00ff41) | Malleable C2 profiles for Cobalt Strike and Empire |
-| **[ScriptBlock-Smuggling](https://github.com/BC-SECURITY/ScriptBlock-Smuggling)** | ![](https://img.shields.io/github/stars/BC-SECURITY/ScriptBlock-Smuggling?style=flat-square&labelColor=0d1117&color=00ff41) | Sample code from the ScriptBlock Smuggling research |
+| **[Empire](https://github.com/BC-SECURITY/Empire)** | ![Empire stars](https://img.shields.io/github/stars/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41&label=) | Post-exploitation and adversary emulation framework for red teams and penetration testers |
+| **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | ![Starkiller stars](https://img.shields.io/github/stars/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41&label=) | Frontend for Empire |
+| **[Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)** | ![Beginners-Guide-to-Obfuscation stars](https://img.shields.io/github/stars/BC-SECURITY/Beginners-Guide-to-Obfuscation?style=flat-square&labelColor=0d1117&color=00ff41&label=) | Workshop material on evading detection through obfuscation |
+| **[Moriarty](https://github.com/BC-SECURITY/Moriarty)** | ![Moriarty stars](https://img.shields.io/github/stars/BC-SECURITY/Moriarty?style=flat-square&labelColor=0d1117&color=00ff41&label=) | Windows privilege escalation — enumerates missing KBs, detects vulnerabilities, suggests exploits |
+| **[Malleable-C2-Profiles](https://github.com/BC-SECURITY/Malleable-C2-Profiles)** | ![Malleable-C2-Profiles stars](https://img.shields.io/github/stars/BC-SECURITY/Malleable-C2-Profiles?style=flat-square&labelColor=0d1117&color=00ff41&label=) | Malleable C2 profiles for Cobalt Strike and Empire |
+| **[ScriptBlock-Smuggling](https://github.com/BC-SECURITY/ScriptBlock-Smuggling)** | ![ScriptBlock-Smuggling stars](https://img.shields.io/github/stars/BC-SECURITY/ScriptBlock-Smuggling?style=flat-square&labelColor=0d1117&color=00ff41&label=) | Sample code from the ScriptBlock Smuggling research |
 
 More at **[github.com/BC-SECURITY](https://github.com/BC-SECURITY)**.
 
@@ -46,7 +46,7 @@ cx01n@github:~$ cat talks.log
 
 | year | venue | talk |
 |---|---|---|
-| 2025 | DEF CON 33 | Rebadged, Relabeled, and Rooted: Pwnage via the Solar |
+| 2025 | DEF CON 33 | Rebadged, Relabeled, and Rooted Pwnage via the Solar |
 | 2025 | DEF CON 33 | Empire 6.0 |
 | 2025 | DEF CON 33 | PLC Playground: Hands-On Industrial Control Systems Attacks · *workshop* |
 | 2025 | HackSpaceCon | How Hackers Threaten the Final Frontier · *invited* |
@@ -101,11 +101,11 @@ cx01n@github:~$ cat .contact
 
 <div align="center">
 
-[![](https://img.shields.io/badge/bcsecurity.io-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=00ff41)](https://bcsecurity.io)
-[![](https://img.shields.io/badge/@Cx01N__-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Cx01N_)
-[![](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthony-coin-rose/)
-[![](https://img.shields.io/badge/Google_Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)
-[![](https://img.shields.io/badge/AFIT_CCR-0d1117?style=flat-square&logo=academia&logoColor=00ff41)](https://www.afit.edu/CCR/)
+[![bcsecurity.io](https://img.shields.io/badge/bcsecurity.io-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=00ff41)](https://bcsecurity.io)
+[![X: @Cx01N_](https://img.shields.io/badge/@Cx01N__-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Cx01N_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthony-coin-rose/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)
+[![AFIT Center for Cyberspace Research](https://img.shields.io/badge/AFIT_CCR-0d1117?style=flat-square&logo=academia&logoColor=00ff41)](https://www.afit.edu/CCR/)
 
 </div>
 
@@ -114,11 +114,11 @@ cx01n@github:~$ ./stats.sh --live
 ```
 
 **Empire**
-&nbsp;![](https://img.shields.io/github/v/release/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41&label=release)
-&nbsp;![](https://img.shields.io/github/last-commit/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41)
-&nbsp;![](https://img.shields.io/github/license/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41)
+&nbsp;![Empire latest release](https://img.shields.io/github/v/release/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41&label=release)
+&nbsp;![Empire last commit](https://img.shields.io/github/last-commit/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41)
+&nbsp;![Empire license](https://img.shields.io/github/license/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41)
 
 **Starkiller**
-&nbsp;![](https://img.shields.io/github/v/release/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41&label=release)
-&nbsp;![](https://img.shields.io/github/last-commit/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41)
-&nbsp;![](https://img.shields.io/github/license/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41)
+&nbsp;![Starkiller latest release](https://img.shields.io/github/v/release/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41&label=release)
+&nbsp;![Starkiller last commit](https://img.shields.io/github/last-commit/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41)
+&nbsp;![Starkiller license](https://img.shields.io/github/license/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41)
