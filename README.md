@@ -1,20 +1,20 @@
 <div align="center">
 
 ```
- ██████╗██╗  ██╗ ██████╗  ██╗███╗   ██╗
-██╔════╝╚██╗██╔╝██╔═████╗███║████╗  ██║
-██║      ╚███╔╝ ██║██╔██║╚██║██╔██╗ ██║
-██║      ██╔██╗ ████╔╝██║ ██║██║╚██╗██║
-╚██████╗██╔╝ ██╗╚██████╔╝ ██║██║ ╚████║
- ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═╝╚═╝  ╚═══╝
+ ██████╗ ██████╗ ██╗███╗   ██╗
+██╔════╝██╔═══██╗██║████╗  ██║
+██║     ██║   ██║██║██╔██╗ ██║
+██║     ██║   ██║██║██║╚██╗██║
+╚██████╗╚██████╔╝██║██║ ╚████║
+ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝
 ```
 
 </div>
 
 ```console
-cx01n@github:~$ whoami
+coin@github:~$ whoami
 
-Anthony Rose  //  Cx01N
+Anthony Rose  //  Coin
 
 COO & Co-Founder @ BC Security  —  Empire, Starkiller
 Assistant Professor of Electrical Engineering @ AFIT
@@ -26,7 +26,7 @@ Ph.D. Electrical Engineering, AFIT (2025)
 ```
 
 ```console
-cx01n@github:~$ ls -l projects/
+coin@github:~$ ls -l projects/
 ```
 
 | repo | ★ | what it does |
@@ -41,7 +41,7 @@ cx01n@github:~$ ls -l projects/
 More at **[github.com/BC-SECURITY](https://github.com/BC-SECURITY)**.
 
 ```console
-cx01n@github:~$ cat talks.log
+coin@github:~$ cat talks.log
 ```
 
 | year | venue | talk |
@@ -84,7 +84,7 @@ cx01n@github:~$ cat talks.log
 </details>
 
 ```console
-cx01n@github:~$ cat publications.bib
+coin@github:~$ cat publications.bib
 ```
 
 - **Malware Classification through Abstract Syntax Trees and L-moments** — *Computers & Security* (Elsevier), 2025
@@ -96,7 +96,7 @@ Dissertation — *Graph Theoretic Malware Analysis using Statistical Features an
 Full record on **[Google Scholar](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)**.
 
 ```console
-cx01n@github:~$ cat .contact
+coin@github:~$ cat .contact
 ```
 
 <div align="center">
@@ -110,7 +110,7 @@ cx01n@github:~$ cat .contact
 </div>
 
 ```console
-cx01n@github:~$ ./stats.sh --live
+coin@github:~$ ./stats.sh --live
 ```
 
 **Empire**
