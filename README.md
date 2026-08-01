@@ -40,7 +40,7 @@ coin@github:~$ cat talks.log
 
 | year | venue | talk |
 |---|---|---|
-| 2025 | DEF CON 33 | Rebadged, Relabeled, and Rooted Pwnage via the Solar |
+| 2025 | DEF CON 33 | [Rebadged, Relabeled, Rooted: Pwnage via Solar Supply Chain](https://www.youtube.com/watch?v=aKCSoAtxEHc) |
 | 2025 | DEF CON 33 | Empire 6.0 |
 | 2025 | DEF CON 33 | PLC Playground: Hands-On Industrial Control Systems Attacks · *workshop* |
 | 2025 | HackSpaceCon | How Hackers Threaten the Final Frontier · *invited* |
