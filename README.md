@@ -52,7 +52,7 @@ coin@github:~$ cat talks.log
 | 2020 | Black Hat USA | Starkiller: Threat Emulation Platform for Red Teams and Penetration Testers |
 | 2019 | DEF CON 27 | [Hack to Basics: Adapting Exploit Frameworks to Evade Microsoft ATP](https://github.com/BC-SECURITY/DEFCON27) |
 | 2017 | RSA Conference | All Your Locks Are BLEong to Us |
-| 2016 | DEF CON 24 | Picking Bluetooth Low Energy Locks from a Quarter Mile Away |
+| 2016 | DEF CON 24 | [Picking Bluetooth Low Energy Locks from a Quarter Mile Away](https://www.youtube.com/watch?v=KrOReHwjCKI) |
 
 <details>
 <summary><b>full talk history</b></summary>
@@ -69,7 +69,7 @@ coin@github:~$ cat talks.log
 | 2021 | Black Hat Asia | Empire: Post-Exploitation Framework |
 | 2021 | FAA Cybersecurity Awareness Symposium | Current State of Aircraft Cybersecurity |
 | 2020 | DEF CON Safe Mode | Starkiller: Threat Emulation Platform for Red Teams and Penetration Testers |
-| 2020 | DEF CON Safe Mode | APTs &lt;3 PowerShell and Why You Should Too |
+| 2020 | DEF CON Safe Mode | [APTs &lt;3 PowerShell and Why You Should Too](https://www.youtube.com/watch?v=GhfiNTsxqxA) |
 | 2019 | DEF CON 27 | Introduction to Sandbox Evasion and AMSI Bypasses · *workshop* |
 | 2016 | IOT Village | Picking Bluetooth Low Energy Locks from a Quarter Mile Away |
 
