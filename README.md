@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Cx01N/Cx01N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ ██████╗██╗  ██╗ ██████╗  ██╗███╗   ██╗
+██╔════╝╚██╗██╔╝██╔═████╗███║████╗  ██║
+██║      ╚███╔╝ ██║██╔██║╚██║██╔██╗ ██║
+██║      ██╔██╗ ████╔╝██║ ██║██║╚██╗██║
+╚██████╗██╔╝ ██╗╚██████╔╝ ██║██║ ╚████║
+ ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚═╝╚═╝  ╚═══╝
+```
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+cx01n@github:~$ whoami
+
+Anthony Rose  //  Cx01N
+
+COO & Co-Founder @ BC Security  —  Empire, Starkiller
+Assistant Professor of Electrical Engineering @ AFIT
+Director, Center for Cyberspace Research
+
+Ph.D. Electrical Engineering, AFIT (2025)
+  Graph Theoretic Malware Analysis using Statistical Features
+  and Machine Learning Models
+```
