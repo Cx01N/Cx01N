@@ -83,7 +83,7 @@ coin@github:~$ cat publications.bib
 - **ScriptBlock Smuggling: Uncovering Stealthy Evasion Techniques in PowerShell and .NET Environments** — *Journal of Cybersecurity & Privacy*, 2024
 - **IronNetInjector: Weaponizing .NET Dynamic Language Runtime Engines** — *Digital Threats: Research and Practice*, 2023
 
-Dissertation — *Graph Theoretic Malware Analysis using Statistical Features and Machine Learning Models*, Ph.D. Electrical Engineering, AFIT, 2025.
+> **Ph.D. Dissertation** — *Graph Theoretic Malware Analysis using Statistical Features and Machine Learning Models*, Electrical Engineering, AFIT, 2025
 
 Full record on **[Google Scholar](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)**.
 
