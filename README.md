@@ -82,3 +82,29 @@ cx01n@github:~$ cat talks.log
 | 2016 | IOT Village | Picking Bluetooth Low Energy Locks from a Quarter Mile Away |
 
 </details>
+
+```console
+cx01n@github:~$ cat publications.bib
+```
+
+- **Malware Classification through Abstract Syntax Trees and L-moments** — *Computers & Security* (Elsevier), 2025
+- **ScriptBlock Smuggling: Uncovering Stealthy Evasion Techniques in PowerShell and .NET Environments** — *Journal of Cybersecurity & Privacy*, 2024
+- **IronNetInjector: Weaponizing .NET Dynamic Language Runtime Engines** — *Digital Threats: Research and Practice*, 2023
+
+Dissertation — *Graph Theoretic Malware Analysis using Statistical Features and Machine Learning Models*, Ph.D. Electrical Engineering, AFIT, 2025.
+
+Full record on **[Google Scholar](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)**.
+
+```console
+cx01n@github:~$ cat .contact
+```
+
+<div align="center">
+
+[![](https://img.shields.io/badge/bcsecurity.io-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=00ff41)](https://bcsecurity.io)
+[![](https://img.shields.io/badge/@Cx01N__-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Cx01N_)
+[![](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthony-coin-rose/)
+[![](https://img.shields.io/badge/Google_Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)
+[![](https://img.shields.io/badge/AFIT_CCR-0d1117?style=flat-square&logo=academia&logoColor=00ff41)](https://www.afit.edu/CCR/)
+
+</div>
