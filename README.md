@@ -24,7 +24,7 @@ coin@github:~$ ls -l projects/
 ```
 
 | repo | ★ | what it does |
-|---|---|---|
+|---|:-:|---|
 | **[Empire](https://github.com/BC-SECURITY/Empire)** | ![Empire stars](https://img.shields.io/github/stars/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Post-exploitation and adversary emulation framework for red teams and penetration testers |
 | **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | ![Starkiller stars](https://img.shields.io/github/stars/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Frontend for Empire |
 | **[Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)** | ![Beginners-Guide-to-Obfuscation stars](https://img.shields.io/github/stars/BC-SECURITY/Beginners-Guide-to-Obfuscation?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Workshop material on evading detection through obfuscation |
