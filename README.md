@@ -108,3 +108,17 @@ cx01n@github:~$ cat .contact
 [![](https://img.shields.io/badge/AFIT_CCR-0d1117?style=flat-square&logo=academia&logoColor=00ff41)](https://www.afit.edu/CCR/)
 
 </div>
+
+```console
+cx01n@github:~$ ./stats.sh --live
+```
+
+**Empire**
+&nbsp;![](https://img.shields.io/github/v/release/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41&label=release)
+&nbsp;![](https://img.shields.io/github/last-commit/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41)
+&nbsp;![](https://img.shields.io/github/license/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=00ff41)
+
+**Starkiller**
+&nbsp;![](https://img.shields.io/github/v/release/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41&label=release)
+&nbsp;![](https://img.shields.io/github/last-commit/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41)
+&nbsp;![](https://img.shields.io/github/license/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=00ff41)
