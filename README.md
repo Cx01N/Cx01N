@@ -16,7 +16,7 @@ coin@github:~$ whoami
 
 Anthony Rose  //  Coin
 
-COO & Co-Founder @ BC Security  —  Empire, Starkiller
+COO & Co-Founder @ BC Security  —  SIMAPTIC
 Assistant Professor of Electrical Engineering @ AFIT
 Director, Center for Cyberspace Research
 
@@ -101,10 +101,11 @@ coin@github:~$ cat .contact
 
 <div align="center">
 
-[![bcsecurity.io](https://img.shields.io/badge/bcsecurity.io-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=00ff41)](https://bcsecurity.io)
-[![X: @Cx01N_](https://img.shields.io/badge/@Cx01N__-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/Cx01N_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthony-coin-rose/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)
-[![AFIT Center for Cyberspace Research](https://img.shields.io/badge/AFIT_CCR-0d1117?style=flat-square&logo=academia&logoColor=00ff41)](https://www.afit.edu/CCR/)
+[![bcsecurity.io](https://img.shields.io/badge/bcsecurity-%23000000.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://bcsecurity.io)
+[![SIMAPTIC](https://img.shields.io/badge/simaptic-%230B5F3A.svg?&style=for-the-badge&logo=probot&logoColor=white)](https://simaptic.ai)
+[![X: @Cx01N_](https://img.shields.io/badge/@Cx01N__-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/Cx01N_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/anthony-coin-rose/)
+[![Google Scholar](https://img.shields.io/badge/scholar-%232A5DB0.svg?&style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=g6PSBA0AAAAJ&hl=en)
+[![AFIT CCR](https://img.shields.io/badge/AFIT_CCR-%2300305E.svg?&style=for-the-badge&logo=academia&logoColor=white)](https://www.afit.edu/CCR/)
 
 </div>
