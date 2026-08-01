@@ -24,13 +24,13 @@ coin@github:~$ ls -l projects/
 ```
 
 | repo | ★ | what it does |
-|---|:-:|---|
-| **[Empire](https://github.com/BC-SECURITY/Empire)** | ![Empire stars](https://img.shields.io/github/stars/BC-SECURITY/Empire?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Post-exploitation and adversary emulation framework for red teams and penetration testers |
-| **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | ![Starkiller stars](https://img.shields.io/github/stars/BC-SECURITY/Starkiller?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Frontend for Empire |
-| **[Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)** | ![Beginners-Guide-to-Obfuscation stars](https://img.shields.io/github/stars/BC-SECURITY/Beginners-Guide-to-Obfuscation?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Workshop material on evading detection through obfuscation |
-| **[Moriarty](https://github.com/BC-SECURITY/Moriarty)** | ![Moriarty stars](https://img.shields.io/github/stars/BC-SECURITY/Moriarty?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Windows privilege escalation — enumerates missing KBs, detects vulnerabilities, suggests exploits |
-| **[Malleable-C2-Profiles](https://github.com/BC-SECURITY/Malleable-C2-Profiles)** | ![Malleable-C2-Profiles stars](https://img.shields.io/github/stars/BC-SECURITY/Malleable-C2-Profiles?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Malleable C2 profiles for Cobalt Strike and Empire |
-| **[ScriptBlock-Smuggling](https://github.com/BC-SECURITY/ScriptBlock-Smuggling)** | ![ScriptBlock-Smuggling stars](https://img.shields.io/github/stars/BC-SECURITY/ScriptBlock-Smuggling?style=flat-square&labelColor=0d1117&color=1a7f37&label=) | Sample code from the ScriptBlock Smuggling research |
+|---|---:|---|
+| **[Empire](https://github.com/BC-SECURITY/Empire)** | 5,235 | Post-exploitation and adversary emulation framework for red teams and penetration testers |
+| **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | 1,672 | Frontend for Empire |
+| **[Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)** | 1,077 | Workshop material on evading detection through obfuscation |
+| **[Moriarty](https://github.com/BC-SECURITY/Moriarty)** | 516 | Windows privilege escalation — enumerates missing KBs, detects vulnerabilities, suggests exploits |
+| **[Malleable-C2-Profiles](https://github.com/BC-SECURITY/Malleable-C2-Profiles)** | 407 | Malleable C2 profiles for Cobalt Strike and Empire |
+| **[ScriptBlock-Smuggling](https://github.com/BC-SECURITY/ScriptBlock-Smuggling)** | 94 | Sample code from the ScriptBlock Smuggling research |
 
 ```console
 coin@github:~$ cat talks.log
