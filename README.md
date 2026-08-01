@@ -16,11 +16,11 @@ coin@github:~$ whoami
 
 Anthony Rose  //  Coin
 
-COO & Co-Founder @ BC Security  —  SIMAPTIC
-Assistant Professor of Electrical Engineering @ AFIT
+COO & Co-Founder @ BC Security / SIMAPTIC
+Assistant Professor of Electrical Engineering
 Director, Center for Cyberspace Research
 
-Ph.D. Electrical Engineering, AFIT (2025)
+Ph.D. Electrical Engineering
   Graph Theoretic Malware Analysis using Statistical Features
   and Machine Learning Models
 ```
