@@ -25,11 +25,11 @@ coin@github:~$ ls -l projects/
 
 | repo | ★ | what it does |
 |---|---:|---|
-| **[Empire](https://github.com/BC-SECURITY/Empire)** | 5,235 | Post-exploitation and adversary emulation framework for red teams and penetration testers |
-| **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | 1,672 | Frontend for Empire |
+| **[Empire](https://github.com/BC-SECURITY/Empire)** | 5,236 | Post-exploitation and adversary emulation framework for red teams and penetration testers |
+| **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | 1,673 | Frontend for Empire |
 | **[Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)** | 1,077 | Workshop material on evading detection through obfuscation |
 | **[Moriarty](https://github.com/BC-SECURITY/Moriarty)** | 516 | Windows privilege escalation — enumerates missing KBs, detects vulnerabilities, suggests exploits |
-| **[Malleable-C2-Profiles](https://github.com/BC-SECURITY/Malleable-C2-Profiles)** | 407 | Malleable C2 profiles for Cobalt Strike and Empire |
+| **[Malleable-C2-Profiles](https://github.com/BC-SECURITY/Malleable-C2-Profiles)** | 408 | Malleable C2 profiles for Cobalt Strike and Empire |
 | **[ScriptBlock-Smuggling](https://github.com/BC-SECURITY/ScriptBlock-Smuggling)** | 94 | Sample code from the ScriptBlock Smuggling research |
 
 ```console
