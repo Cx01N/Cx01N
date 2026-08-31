@@ -25,7 +25,7 @@ coin@github:~$ ls -l projects/
 
 | repo | ★ | what it does |
 |---|---:|---|
-| **[Empire](https://github.com/BC-SECURITY/Empire)** | 5,263 | Post-exploitation and adversary emulation framework for red teams and penetration testers |
+| **[Empire](https://github.com/BC-SECURITY/Empire)** | 5,268 | Post-exploitation and adversary emulation framework for red teams and penetration testers |
 | **[Starkiller](https://github.com/BC-SECURITY/Starkiller)** | 1,684 | Frontend for Empire |
 | **[Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)** | 1,080 | Workshop material on evading detection through obfuscation |
 | **[Moriarty](https://github.com/BC-SECURITY/Moriarty)** | 517 | Windows privilege escalation — enumerates missing KBs, detects vulnerabilities, suggests exploits |
